@@ -2,7 +2,7 @@
 
 **Product Name:** CineMatch  
 **Document Version:** 1.0.0  
-**Author:** Faheem  
+**Author:** Faheem Jalaldeen
 **Status:** Ready for Engineering Review  
 **Target Release:** Q3 2026  
 
